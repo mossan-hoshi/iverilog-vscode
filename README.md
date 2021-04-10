@@ -5,7 +5,7 @@ Simple VSCode environment for iverilog(just build, run and show wave).
 - Windows10
 - Visual Studio Code
 - [Icarus Verilog for Windows](http://bleyer.org/icarus/)
-  - Operation check in `iverilog-v11-20210204-x64_setup.exe`
+  - Operation checked in `iverilog-v11-20210204-x64_setup.exe`
 ## Installation
 1. Install Icalus Verilog
 - Download 「[Icarus Verilog for Windows](http://bleyer.org/icarus/)」 from official site and install it.
