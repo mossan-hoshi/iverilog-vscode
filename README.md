@@ -1,5 +1,5 @@
 # iverilog-vscode
-Simple VSCode environment for iverilog(just build and run).
+Simple VSCode environment for iverilog(just build, run and show wave).
 
 ## Requirements
 - Windows10
