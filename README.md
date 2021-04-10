@@ -12,6 +12,8 @@ VSCode environment for iverilog(tasks for build  and run)
 1. install Icalus Verilog
 - Install 「[Icarus Verilog for Windows](http://bleyer.org/icarus/)」 from official site
 - check `Add executable folder(s) to the user PATH` on setup wizard.
+- ![image](https://user-images.githubusercontent.com/52093236/114260188-35564d00-9a0e-11eb-9685-a48f76425268.png)
+
 2. set environment
 3. prepare source code
 - make directory and place design and test bench files(*.v)
