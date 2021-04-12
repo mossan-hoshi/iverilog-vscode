@@ -3,7 +3,7 @@
 module test_add1bit_half();
     parameter CLOCK_CYCLE = 100;
     parameter COUNTER_BIT_NUM = 2;
-    parameter SIMULATION_PERIOD = 100;
+    parameter SIMULATION_PERIOD = 500;
 
     // signal defenition
     reg clk;

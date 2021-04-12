@@ -5,7 +5,7 @@ module test_logic_shift();
     parameter BIT_NUM = 8;
     parameter SHIFT_BIT_NUM = 3;
     parameter COUNTER_BIT_NUM = BIT_NUM + SHIFT_BIT_NUM + 1;
-    parameter SIMULATION_PERIOD = 10000;
+    parameter SIMULATION_PERIOD = 500;
 
     // signal defenition
     reg clk;
